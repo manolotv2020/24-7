@@ -1,38 +1,32 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" name="24/7: BOB ESPONJA" group="CANALES 24/7" logo="https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/nick-dev/images/series/spongebob-squarepants/sb-original/grails/480x270.png?height=0&width=480&matte=true&crop=false", 24/7: BOB ESPONJA
+#EXTINF:0 type="stream" channelId="-1" name="24/7: BOB ESPONJA" group="CANALES 24/7" logo="https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:scenic:/international/nick-dev/images/series/spongebob-squarepants/sb-original/grails/480x270.png?height=0&width=480&matte=true&crop=false", 24/7: Bob Esponja
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/53929
 #EXTINF:0 type="stream" channelId="-1" name="24/7: Boing" group="CANALES 24/7" logo="https://www.conmishijos.com/uploads/ocio_familia/television_boing.jpg", 24/7: Boing
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/942
 #EXTINF:0 type="stream" channelId="-1" name="24/7: Caballeros del zodiaco" group="CANALES 24/7" logo="https://static-1.ivoox.com/canales/8/7/0/1/9681464891078_XXL.jpg", 24/7: Caballeros del zodiaco
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/66020
-#EXTINF:0 type="stream" channelId="-1" name="24/7: Caso Cerrado" group="CANALES 24/7" logo="https://www.dafont.com/forum/attach/orig/1/5/151956.png", 24/7: Caso Cerrado
-http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/66104
 #EXTINF:0 type="stream" channelId="-1" name="24/7: Marvel Studios" group="CANALES 24/7" logo="https://w7.pngwing.com/pngs/704/824/png-transparent-marvel-studios-logo-walt-disney-studios-marvel-studios-marvel-cinematic-universe-logo-film-studio-marvel-miscellaneous-fictional-characters-studio.png", 24/7: Marvel Studios
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/66036
-#EXTINF:0 type="stream" channelId="-1" name="24/7: DINOSAURIOS" group="CANALES 24/7" logo="https://cde.peru.com//ima/0/1/2/4/1/1241909/924x530/dinosaurios.jpg", 24/7: DINOSAURIOS
+#EXTINF:0 type="stream" channelId="-1" name="24/7: DINOSAURIOS" group="CANALES 24/7" logo="https://cde.peru.com//ima/0/1/2/4/1/1241909/924x530/dinosaurios.jpg", 24/7: Dinosaurios
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8277
-#EXTINF:0 type="stream" channelId="-1" name="24/7: EL CHAPULIN COLORADO" group="CANALES 24/7" logo="http://wrmx00.epimg.net/radio/imagenes/2017/06/14/entretenimiento/1497397774_390492_1497398110_noticia_normal.jpg", 24/7: EL CHAPULIN COLORADO
+#EXTINF:0 type="stream" channelId="-1" name="24/7: EL CHAPULIN COLORADO" group="CANALES 24/7" logo="http://wrmx00.epimg.net/radio/imagenes/2017/06/14/entretenimiento/1497397774_390492_1497398110_noticia_normal.jpg", 24/7: Chapulin Colorado
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8282
-#EXTINF:0 type="stream" channelId="-1" name="24/7: El Show de Bugs Bunny" group="CANALES 24/7" logo="https://i.pinimg.com/originals/99/e8/38/99e8388cb933910211157601acc5c6aa.png", 24/7: El Show de Bugs Bunny
-http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/53932
-#EXTINF:0 type="stream" channelId="-1" name="24/7: LOS PICAPIEDRAS" group="CANALES 24/7" logo="https://e.rpp-noticias.io/normal/2019/07/11/352335_814727.jpg", 24/7: LOS PICAPIEDRAS
+#EXTINF:0 type="stream" channelId="-1" name="24/7: LOS PICAPIEDRAS" group="CANALES 24/7" logo="https://e.rpp-noticias.io/normal/2019/07/11/352335_814727.jpg", 24/7: Los Picapiedras
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8302
-#EXTINF:0 type="stream" channelId="-1" name="24/7: LOS SIMPSONS" group="CANALES 24/7" logo="https://cadenaser00.epimg.net/ser/imagenes/2014/12/17/television/1418786070_064451_1418786171_noticia_normal.jpg", 24/7: LOS SIMPSONS
+#EXTINF:0 type="stream" channelId="-1" name="24/7: LOS SIMPSONS" group="CANALES 24/7" logo="https://cadenaser00.epimg.net/ser/imagenes/2014/12/17/television/1418786070_064451_1418786171_noticia_normal.jpg", 24/7: Los Simpson 1
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8303
-#EXTINF:0 type="stream" channelId="-1" name="24/7: LOS SIMPSONS OP2" group="CANALES 24/7" logo="https://cadenaser00.epimg.net/ser/imagenes/2014/12/17/television/1418786070_064451_1418786171_noticia_normal.jpg", 24/7: LOS SIMPSONS OP2
+#EXTINF:0 type="stream" channelId="-1" name="24/7: LOS SIMPSONS OP2" group="CANALES 24/7" logo="https://cadenaser00.epimg.net/ser/imagenes/2014/12/17/television/1418786070_064451_1418786171_noticia_normal.jpg", 24/7: Los Simpson 2
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8427
-#EXTINF:0 type="stream" channelId="-1" name="24/7: Peliculas Infantiles" group="CANALES 24/7", 24/7: Peliculas Infantiles
+#EXTINF:0 type="stream" channelId="-1" name="24/7: Peliculas Infantiles" group="CANALES 24/7" logo="https://direct.rhapsody.com/imageserver/images/alb.247268305/500x500.jpg", 24/7: Peliculas Infantiles
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/53934
 #EXTINF:0 type="stream" channelId="-1" name="24/7: Pinky y cerebro" group="CANALES 24/7" logo="https://tendencybook.com/wp-content/uploads/2020/04/Pinky-y-Cerebro.jpg", 24/7: Pinky y cerebro
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/66029
 #EXTINF:0 type="stream" channelId="-1" name="24/7: Pokémon" group="CANALES 24/7" logo="https://spoilertime.com/wp-content/uploads/2018/05/025Pikachu_OS_anime_4-780x780.png", 24/7: Pokémon
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/66030
-#EXTINF:0 type="stream" channelId="-1" name="24/7: SMALLVILLE" group="CANALES 24/7" logo="https://images-na.ssl-images-amazon.com/images/I/91-kpP0nsYL._SL1500_.jpg", 24/7: SMALLVILLE
+#EXTINF:0 type="stream" channelId="-1" name="24/7: SMALLVILLE" group="CANALES 24/7" logo="https://images-na.ssl-images-amazon.com/images/I/91-kpP0nsYL._SL1500_.jpg", 24/7: Smalville
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/8320
-#EXTINF:0 type="stream" channelId="-1" name="24/7: Spider-Man" group="CANALES 24/7" logo="https://i.dlpng.com/static/png/5442580-spiderman-logo-spider-man-marvel-comics-edible-cake-topper-image-spiderman-logo-450_450_preview.png", 24/7: Spider-Man
+#EXTINF:0 type="stream" channelId="-1" name="24/7: Spider-Man" group="CANALES 24/7" logo="https://i.dlpng.com/static/png/5442580-spiderman-logo-spider-man-marvel-comics-edible-cake-topper-image-spiderman-logo-450_450_preview.png", 24/7: Spider-Man Animado Marvel
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/66033
-#EXTINF:0 type="stream" channelId="-1" name="24/7: Super Campeones" group="CANALES 24/7" logo="https://i.pinimg.com/474x/70/93/22/709322528f60c1bf7bd093dc26075a2c.jpg", 24/7: Super Campeones
-http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/66034
 #EXTINF:0 type="stream" channelId="-1" name="24/7: The Walking Dead" group="CANALES 24/7" logo="https://www.bolsamania.com/cine/wp-content/uploads/2019/04/16-8-600x338.jpg", 24/7: The Walking Dead
 http://grbdtv.nubetv.xyz:8000/scriptTV/Y1wSXVG6UD/53930
 #EXTINF:0 type="stream" channelId="-1" name="24/7: Thundercats" group="CANALES 24/7" logo="https://3.bp.blogspot.com/-Yzxf3qg8cQ4/WyPkAoa1oZI/AAAAAAAAAsE/yfnjqxyEyzcmEbMh4hx_lUkbQWpQCXvigCLcBGAs/s320/logo.png", 24/7: Thundercats
